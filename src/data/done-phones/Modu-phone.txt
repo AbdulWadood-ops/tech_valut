@@ -1,0 +1,8 @@
+modu-express-jacket: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425576/Modu-phone/modu-express-jacket.jpg
+modu-main-phone: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425582/Modu-phone/modu-main-phone.jpg
+modu-mini-jacket: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425589/Modu-phone/modu-mini-jacket.jpg
+modu-night-jacket: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425595/Modu-phone/modu-night-jacket.jpg
+modu-shiny-jacket: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425602/Modu-phone/modu-shiny-jacket.jpg
+modu-speedy-jacket: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425608/Modu-phone/modu-speedy-jacket.jpg
+modu-sport-jacket: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425614/Modu-phone/modu-sport-jacket.jpg
+modu-t: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425620/Modu-phone/modu-t.jpg

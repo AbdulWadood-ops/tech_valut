@@ -1,0 +1,20 @@
+dell-aero: https://res.cloudinary.com/nlqftyr9/image/upload/v1785487988/Dell/dell-aero.jpg
+dell-flash: https://res.cloudinary.com/nlqftyr9/image/upload/v1785487995/Dell/dell-flash.jpg
+dell-mini-3i: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488004/Dell/dell-mini-3i.jpg
+dell-mini-3ix-official: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488014/Dell/dell-mini-3ix-official.jpg
+dell-smoke: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488022/Dell/dell-smoke.jpg
+dell-streak-10-pro: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488029/Dell/dell-streak-10-pro.jpg
+dell-streak-7 (1): https://res.cloudinary.com/nlqftyr9/image/upload/v1785488035/Dell/dell-streak-7%20%281%29.jpg
+dell-streak-7: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488041/Dell/dell-streak-7.jpg
+dell-streak-official: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488048/Dell/dell-streak-official.jpg
+dell-streak-pro-d43: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488054/Dell/dell-streak-pro-d43.jpg
+dell-venue-10-7000: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488060/Dell/dell-venue-10-7000.jpg
+dell-venue-7-8gb: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488066/Dell/dell-venue-7-8gb.jpg
+dell-venue-7: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488072/Dell/dell-venue-7.jpg
+dell-venue-8-7000: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488080/Dell/dell-venue-8-7000.jpg
+dell-venue-8: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488086/Dell/dell-venue-8.jpg
+dell-venue-ofic: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488094/Dell/dell-venue-ofic.jpg
+dell-venue-pro: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488102/Dell/dell-venue-pro.jpg
+dell-xcd28: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488109/Dell/dell-xcd28.jpg
+dell-xcd35-new: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488115/Dell/dell-xcd35-new.jpg
+dell-xps-10: https://res.cloudinary.com/nlqftyr9/image/upload/v1785488121/Dell/dell-xps-10.jpg

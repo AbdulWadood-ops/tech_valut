@@ -1,0 +1,102 @@
+[
+  {
+    "id": "razer-phone-8869",
+    "name": "Razer Phone",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot) for data-free browsing and connectivity",
+      "8 MP, f/2.0 camera capable of capturing good photos for its release era",
+      "Snapdragon 835 chipset provides balanced everyday performance",
+      "Li-Po 4000 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2017 launch era",
+        "body": "Picking this up around its release period, the Android 7.1.1, up to Android 9.0 experience felt snappy and responsive for the price tier. The 8 MP, f/2.0 camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Po 4000 mAh power cell paired with Razer's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Razer Phone feels well-balanced in hand. Its 158.5 x 77.7 x 8 mm (6.24 x 3.06 x 0.31 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Snapdragon 835 performance alongside 64GB storage, microSDXC made the Razer Phone an easy recommendation among rivals in 2017.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android 7.1.1, up to Android 9.0, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Po 4000 mAh, non-removable, 5.7\", 1440x2560 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Razer",
+        "body": "Overall, the Razer Phone proved to be a durable and well-engineered mobile device representing Razer's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "razer-phone-2-9303",
+    "name": "Razer Phone 2",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot) for data-free browsing and connectivity",
+      "8 MP, f/2.0 camera capable of capturing good photos for its release era",
+      "Snapdragon 845 chipset provides balanced everyday performance",
+      "Li-Po 4000 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2018 launch era",
+        "body": "Picking this up around its release period, the Android 8.1, up to Android 9.0 experience felt snappy and responsive for the price tier. The 8 MP, f/2.0 camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Po 4000 mAh power cell paired with Razer's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Razer Phone 2 feels well-balanced in hand. Its 158.5 x 79 x 8.5 mm (6.24 x 3.11 x 0.33 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Snapdragon 845 performance alongside 64GB storage, microSDXC made the Razer Phone 2 an easy recommendation among rivals in 2018.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android 8.1, up to Android 9.0, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Po 4000 mAh, non-removable, 5.72\", 1440x2560 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Razer",
+        "body": "Overall, the Razer Phone 2 proved to be a durable and well-engineered mobile device representing Razer's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+nvidia-shield-lte: https://res.cloudinary.com/nlqftyr9/image/upload/v1785426445/Nvidia/nvidia-shield-lte.jpg
+nvidia-shield-tablet-k1: https://res.cloudinary.com/nlqftyr9/image/upload/v1785426451/Nvidia/nvidia-shield-tablet-k1.jpg
+nvidia-shield: https://res.cloudinary.com/nlqftyr9/image/upload/v1785426457/Nvidia/nvidia-shield.jpg

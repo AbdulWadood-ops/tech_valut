@@ -1,0 +1,12 @@
+mio-a501: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425337/Mitac-phones/mio-a501.gif
+mio-a502: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425343/Mitac-phones/mio-a502.gif
+mio-a702: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425349/Mitac-phones/mio-a702.gif
+mitac-mio-8390: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425356/Mitac-phones/mitac-mio-8390.gif
+mitac-mio-8870: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425362/Mitac-phones/mitac-mio-8870.gif
+mitac-mio-a701: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425368/Mitac-phones/mitac-mio-a701.gif
+mitac-mio-k70: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425375/Mitac-phones/mitac-mio-k70.jpg
+mitac-mio-k75: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425381/Mitac-phones/mitac-mio-k75.jpg
+mitac-mio-leap-k1: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425388/Mitac-phones/mitac-mio-leap-k1.jpg
+mitak-mio-leap-g50: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425394/Mitac-phones/mitak-mio-leap-g50.jpg
+mtc8380: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425400/Mitac-phones/mtc8380.gif
+mtc8860: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425407/Mitac-phones/mtc8860.gif

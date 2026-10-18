@@ -1,0 +1,505 @@
+[
+  {
+    "id": "parla-gala-4962",
+    "name": "Parla Gala",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 a/b/g) for data-free browsing and connectivity",
+      "2 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 800 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSDHC (dedicated slot)"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2012 launch era",
+        "body": "Picking this up around its release period, the Feature phone experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 800 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Gala feels well-balanced in hand. Its 105.5 x 59 x 12.9 mm (4.15 x 2.32 x 0.51 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 128Mb 64Mb RAM storage, microSDHC slot made the Parla Gala an easy recommendation among rivals in 2012.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Feature phone, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 800 mAh, removable, 2.3\", 320x240 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Gala proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "parla-minu-5805",
+    "name": "Parla Minu",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "Li-Ion 600 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSDHC (dedicated slot)"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2013 launch era",
+        "body": "Picking this up around its release period, the Feature phone experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 600 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Minu feels well-balanced in hand. Its 110.6 x 46.4 x 13.7 mm (4.35 x 1.83 x 0.54 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 32Mb 32Mb RAM storage, microSDHC slot made the Parla Minu an easy recommendation among rivals in 2013.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Feature phone, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 600 mAh, removable, 1.8\", 128x160 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Minu proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "parla-minu-p123-6775",
+    "name": "Parla Minu P123",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "Li-Ion 600 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSDHC"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2014 launch era",
+        "body": "Picking this up around its release period, the Feature phone experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 600 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Minu P123 feels well-balanced in hand. Its 106.5 x 45 x 14 mm (4.19 x 1.77 x 0.55 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 32Mb 32Mb RAM storage, microSDHC slot made the Parla Minu P123 an easy recommendation among rivals in 2014.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Feature phone, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 600 mAh, removable, 1.8\", 128x160 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Minu P123 proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "parla-minu-p124-7865",
+    "name": "Parla Minu P124",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "Li-Ion 600 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSDHC (dedicated slot)"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2016 launch era",
+        "body": "Picking this up around its release period, the Feature phone experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 600 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Minu P124 feels well-balanced in hand. Its 112 x 48.5 x 13 mm (4.41 x 1.91 x 0.51 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 4MB 4MB RAM storage, microSDHC slot made the Parla Minu P124 an easy recommendation among rivals in 2016.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Feature phone, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 600 mAh, removable, 1.8\", 128x160 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Minu P124 proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "parla-mist-4963",
+    "name": "Parla Mist",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "Li-Ion 700 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSDHC (dedicated slot)"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2012 launch era",
+        "body": "Picking this up around its release period, the Feature phone experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 700 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Mist feels well-balanced in hand. Its 104.6 x 57 x 12.9 mm (4.12 x 2.24 x 0.51 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 32Mb 32Mb RAM storage, microSDHC slot made the Parla Mist an easy recommendation among rivals in 2012.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Feature phone, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 700 mAh, removable, 1.8\", 160x128 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Mist proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "parla-sonic-3-5-5806",
+    "name": "Parla Sonic 3.5",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 a/b/g/n, dual-band, hotspot) for data-free browsing and connectivity",
+      "2 MP camera capable of capturing good photos for its release era",
+      "Spreadtrum SC7710G chipset provides balanced everyday performance",
+      "Li-Ion 1300 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Limited RAM (512 MB RAM) constraints modern multitasking"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2013 launch era",
+        "body": "Picking this up around its release period, the Android 4.1 experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1300 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Sonic 3.5 feels well-balanced in hand. Its 116 x 62.2 x 11.6 mm (4.57 x 2.45 x 0.46 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Spreadtrum SC7710G performance alongside 512MB 512MB RAM storage, microSDHC slot made the Parla Sonic 3.5 an easy recommendation among rivals in 2013.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android 4.1, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 1300 mAh, removable, 3.5\", 320x480 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Sonic 3.5 proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "parla-sonic-3-5s-7372",
+    "name": "Parla Sonic 3.5S",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 a/b/g/n, hotspot) for data-free browsing and connectivity",
+      "2 MP, AF camera capable of capturing good photos for its release era",
+      "Spreadtrum 7715 chipset provides balanced everyday performance",
+      "Li-Ion 1300 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Limited RAM (256 MB RAM) constraints modern multitasking"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2015 launch era",
+        "body": "Picking this up around its release period, the Android 4.4 experience felt snappy and responsive for the price tier. The 2 MP, AF camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1300 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Sonic 3.5S feels well-balanced in hand. Its 117.8 x 63 x 11.7 mm (4.64 x 2.48 x 0.46 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Spreadtrum 7715 performance alongside 512MB 256MB RAM storage, microSDHC slot made the Parla Sonic 3.5S an easy recommendation among rivals in 2015.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android 4.4, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 1300 mAh, removable, 3.5\", 320x480 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Sonic 3.5S proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "parla-spriz-4964",
+    "name": "Parla Spriz",
+    "pros": [
+      "2 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 700 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSDHC (dedicated slot)"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2012 launch era",
+        "body": "Picking this up around its release period, the Feature phone experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 700 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Spriz feels well-balanced in hand. Its 104.6 x 57.2 x 13 mm (4.12 x 2.25 x 0.51 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 128Mb 64Mb RAM storage, microSDHC slot made the Parla Spriz an easy recommendation among rivals in 2012.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Feature phone, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 700 mAh, removable, 2.0\", 320x240 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Spriz proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "parla-zum-4965",
+    "name": "Parla Zum",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "Li-Ion 700 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSDHC (dedicated slot)"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2012 launch era",
+        "body": "Picking this up around its release period, the Feature phone experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 700 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Zum feels well-balanced in hand. Its 103.8 x 45.8 x 13.4 mm (4.09 x 1.80 x 0.53 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 32Mb 16Mb RAM storage, microSDHC slot made the Parla Zum an easy recommendation among rivals in 2012.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Feature phone, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 700 mAh, removable, 1.8\", 128x160 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Zum proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "parla-zum-bianco-5809",
+    "name": "Parla Zum Bianco",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "Li-Ion 600 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSDHC (dedicated slot)"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2013 launch era",
+        "body": "Picking this up around its release period, the Feature phone experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 600 mAh power cell paired with Parla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Parla Zum Bianco feels well-balanced in hand. Its 103.8 x 45.8 x 13.4 mm (4.09 x 1.80 x 0.53 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 32Mb 32Mb RAM storage, microSDHC slot made the Parla Zum Bianco an easy recommendation among rivals in 2013.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Feature phone, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 600 mAh, removable, 1.8\", 128x160 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Parla",
+        "body": "Overall, the Parla Zum Bianco proved to be a durable and well-engineered mobile device representing Parla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  }
+]

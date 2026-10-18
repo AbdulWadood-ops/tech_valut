@@ -1,0 +1,10 @@
+parla-gala-p730: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413683/Parla-phones/parla-gala-p730.jpg
+parla-minu-p124: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413689/Parla-phones/parla-minu-p124.jpg
+parla-minu: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413695/Parla-phones/parla-minu.jpg
+parla-mist-p330: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413701/Parla-phones/parla-mist-p330.jpg
+parla-P123: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413708/Parla-phones/parla-P123.jpg
+parla-sonic-3.5: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413714/Parla-phones/parla-sonic-3.5.jpg
+parla-sonic-35s: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413720/Parla-phones/parla-sonic-35s.jpg
+parla-spriz-p430: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413726/Parla-phones/parla-spriz-p430.jpg
+parla-zum-bianco: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413733/Parla-phones/parla-zum-bianco.jpg
+parla-zum-p130: https://res.cloudinary.com/nlqftyr9/image/upload/v1785413740/Parla-phones/parla-zum-p130.jpg

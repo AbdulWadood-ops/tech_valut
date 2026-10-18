@@ -1,0 +1,257 @@
+[
+  {
+    "id": "jolla-jolla-5408",
+    "name": "Jolla Jolla",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g/n, hotspot) for data-free browsing and connectivity",
+      "2 MP camera capable of capturing good photos for its release era",
+      "Snapdragon 400 chipset provides balanced everyday performance",
+      "Li-Ion 2100 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "Limited RAM (1 GB RAM) constraints modern multitasking",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2013 launch era",
+        "body": "Picking this up around its release period, the Sailfish 1, up to 2.0 experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 2100 mAh power cell paired with Jolla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Jolla Jolla feels well-balanced in hand. Its 131 x 68 x 9.9 mm (5.16 x 2.68 x 0.39 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Snapdragon 400 performance alongside 16GB storage, microSDHC made the Jolla Jolla an easy recommendation among rivals in 2013.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Sailfish 1, up to 2.0, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 2100 mAh, removable (7.98 Wh), 4.5\", 540x960 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Jolla",
+        "body": "Overall, the Jolla Jolla proved to be a durable and well-engineered mobile device representing Jolla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "jolla-jolla-c-8076",
+    "name": "Jolla Jolla C",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g/n, hotspot) for data-free browsing and connectivity",
+      "2 MP camera capable of capturing good photos for its release era",
+      "Snapdragon 212 chipset provides balanced everyday performance",
+      "Li-Ion 2500 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2016 launch era",
+        "body": "Picking this up around its release period, the Sailfish 2.0 experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 2500 mAh power cell paired with Jolla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Jolla Jolla C feels well-balanced in hand. Its 142 x 72 x 9.6 mm (5.59 x 2.83 x 0.38 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Snapdragon 212 performance alongside 16GB storage, microSDHC made the Jolla Jolla C an easy recommendation among rivals in 2016.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Sailfish 2.0, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 2500 mAh, removable (7.98 Wh), 5.0\", 720x1280 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Jolla",
+        "body": "Overall, the Jolla Jolla C proved to be a durable and well-engineered mobile device representing Jolla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "jolla-tablet-6765",
+    "name": "Jolla Tablet",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 a/b/g/n, dual-band) for data-free browsing and connectivity",
+      "2 MP camera capable of capturing good photos for its release era",
+      "Intel Atom Z3735F chipset provides balanced everyday performance",
+      "Li-Ion 4450 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2015 launch era",
+        "body": "Picking this up around its release period, the Sailfish 2.0 experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 4450 mAh power cell paired with Jolla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Jolla Tablet feels well-balanced in hand. Its 203 x 137 x 8.3 mm (7.99 x 5.39 x 0.33 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Intel Atom Z3735F performance alongside 32GB/64GB storage, microSD made the Jolla Tablet an easy recommendation among rivals in 2015.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Sailfish 2.0, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 4450 mAh, non-removable, 7.85\", 1536x2048 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Jolla",
+        "body": "Overall, the Jolla Tablet proved to be a durable and well-engineered mobile device representing Jolla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "jolla-jolla-c2",
+    "name": "Jolla Jolla C2",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g/n, hotspot) for data-free browsing and connectivity",
+      "8 MP, AF camera capable of capturing good photos for its release era",
+      "Standard multi-core processor chipset provides balanced everyday performance",
+      "Li-Ion 3000 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2015 launch era",
+        "body": "Picking this up around its release period, the Android experience felt snappy and responsive for the price tier. The 8 MP, AF camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 3000 mAh power cell paired with Jolla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Jolla Jolla C2 feels well-balanced in hand. Its Standard compact design make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Standard multi-core processor performance alongside 16GB / 32GB storage, microSD slot made the Jolla Jolla C2 an easy recommendation among rivals in 2015.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (IPS LCD capacitive touchscreen) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Jolla",
+        "body": "Overall, the Jolla Jolla C2 proved to be a durable and well-engineered mobile device representing Jolla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "jolla-jolla-phone-5g",
+    "name": "Jolla Jolla Phone 5g",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g/n, hotspot) for data-free browsing and connectivity",
+      "8 MP, AF camera capable of capturing good photos for its release era",
+      "Standard multi-core processor chipset provides balanced everyday performance",
+      "Li-Ion 3000 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2015 launch era",
+        "body": "Picking this up around its release period, the Android experience felt snappy and responsive for the price tier. The 8 MP, AF camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 3000 mAh power cell paired with Jolla's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Jolla Jolla Phone 5g feels well-balanced in hand. Its Standard compact design make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Standard multi-core processor performance alongside 16GB / 32GB storage, microSD slot made the Jolla Jolla Phone 5g an easy recommendation among rivals in 2015.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (IPS LCD capacitive touchscreen) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Jolla",
+        "body": "Overall, the Jolla Jolla Phone 5g proved to be a durable and well-engineered mobile device representing Jolla's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  }
+]

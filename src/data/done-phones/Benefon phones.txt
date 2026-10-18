@@ -1,0 +1,9 @@
+beesc: https://res.cloudinary.com/nlqftyr9/image/upload/v1785481026/Benefon%20phones/beesc.gif
+beio: https://res.cloudinary.com/nlqftyr9/image/upload/v1785481033/Benefon%20phones/beio.gif
+benefon-twig-pro: https://res.cloudinary.com/nlqftyr9/image/upload/v1785481039/Benefon%20phones/benefon-twig-pro.gif
+benefon-twig: https://res.cloudinary.com/nlqftyr9/image/upload/v1785481048/Benefon%20phones/benefon-twig.gif
+beqb: https://res.cloudinary.com/nlqftyr9/image/upload/v1785481054/Benefon%20phones/beqb.gif
+betwin: https://res.cloudinary.com/nlqftyr9/image/upload/v1785481060/Benefon%20phones/betwin.gif
+bevega: https://res.cloudinary.com/nlqftyr9/image/upload/v1785481067/Benefon%20phones/bevega.gif
+track: https://res.cloudinary.com/nlqftyr9/image/upload/v1785481073/Benefon%20phones/track.gif
+twin-plus: https://res.cloudinary.com/nlqftyr9/image/upload/v1785481079/Benefon%20phones/twin-plus.gif

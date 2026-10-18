@@ -1,0 +1,15 @@
+intel-aqua-trend: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418143/Intex/intel-aqua-trend.jpg
+intex-aqua-45e: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418149/Intex/intex-aqua-45e.jpg
+intex-aqua-4g: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418155/Intex/intex-aqua-4g.jpg
+intex-aqua-ace: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418161/Intex/intex-aqua-ace.jpg
+intex-aqua-craze: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418168/Intex/intex-aqua-craze.jpg
+intex-aqua-genx: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418174/Intex/intex-aqua-genx.jpg
+intex-aqua-power-plus: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418180/Intex/intex-aqua-power-plus.jpg
+intex-aqua-power: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418186/Intex/intex-aqua-power.jpg
+intex-aqua-speed: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418193/Intex/intex-aqua-speed.jpg
+intex-aqua-star: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418199/Intex/intex-aqua-star.jpg
+intex-aqua-star2: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418206/Intex/intex-aqua-star2.jpg
+intex-aqua-xtreme-ii: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418212/Intex/intex-aqua-xtreme-ii.jpg
+intex-aqua-y2-remote: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418218/Intex/intex-aqua-y2-remote.jpg
+intex-watch: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418224/Intex/intex-watch.jpg
+intex-xtreme: https://res.cloudinary.com/nlqftyr9/image/upload/v1785418231/Intex/intex-xtreme.jpg

@@ -1,0 +1,5 @@
+asus-nuvifone-a50: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491943/Garmin_asus/asus-nuvifone-a50.jpg
+asus-nuvifone-g60: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491950/Garmin_asus/asus-nuvifone-g60.jpg
+asus-nuvifone-m20: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491956/Garmin_asus/asus-nuvifone-m20.jpg
+garmin-asus-a10: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491963/Garmin_asus/garmin-asus-a10.jpg
+garmin-asus-nuvifone-m10: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491970/Garmin_asus/garmin-asus-nuvifone-m10.jpg

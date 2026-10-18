@@ -1,0 +1,15 @@
+emporia-click-plus: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490806/Emporia%20Phones/emporia-click-plus.jpg
+emporia-eco-c160: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490813/Emporia%20Phones/emporia-eco-c160.jpg
+emporia-emporia-rl1: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490819/Emporia%20Phones/emporia-emporia-rl1.jpg
+emporia-emporiaCAREplus: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490825/Emporia%20Phones/emporia-emporiaCAREplus.jpg
+emporia-emporiaclick: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490831/Emporia%20Phones/emporia-emporiaclick.jpg
+emporia-emporiaCONNECT: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490839/Emporia%20Phones/emporia-emporiaCONNECT.jpg
+emporia-emporiaELEGANCE-V35: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490845/Emporia%20Phones/emporia-emporiaELEGANCE-V35.jpg
+emporia-emporiaELEGANCEplus: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490852/Emporia%20Phones/emporia-emporiaELEGANCEplus.jpg
+emporia-emporiaGLAM: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490859/Emporia%20Phones/emporia-emporiaGLAM.jpg
+emporia-emporiaSOLIDplus: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490866/Emporia%20Phones/emporia-emporiaSOLIDplus.jpg
+emporia-emporiaTALKcomfort: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490872/Emporia%20Phones/emporia-emporiaTALKcomfort.jpg
+emporia-emporiaTALKcomfortplus: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490880/Emporia%20Phones/emporia-emporiaTALKcomfortplus.jpg
+emporia-emporiaTALKpremium1: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490887/Emporia%20Phones/emporia-emporiaTALKpremium1.jpg
+emporia-essence: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490895/Emporia%20Phones/emporia-essence.jpg
+emporia-flip-f210: https://res.cloudinary.com/nlqftyr9/image/upload/v1785490904/Emporia%20Phones/emporia-flip-f210.jpg

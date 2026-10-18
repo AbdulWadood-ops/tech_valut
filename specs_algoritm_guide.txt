@@ -1,0 +1,24 @@
+
+# 🚀 Complete Next.js Integration Context & Guide — Specs-Algorithm Platform
+This document contains the **full technical context, architecture specifications, and copy-paste code** for integrating the C++ Algorithmic Engines and Optimization Layers directly into your Next.js application.
+---
+## 🏗️ 1. System Overview & Core Design Principle
+The architecture solves 3 primary challenges:
+1. **Fast Device Rendering & Fetching:** Efficiently loading and displaying 10,000–20,000 devices without slowing down low-spec mobile browsers or overloading MongoDB.
+2. **Background C++ Ranking Engine:** Scoring and sorting devices (most searched, most requested, most recent) in C++ without ever blocking the Next.js request path.
+3. **C++ Spec Verification Engine:** Comparing claimed device specs against reference ground-truth data with Levenshtein distance and relative numeric tolerance in sub-milliseconds.
+### 🏛️ 3-Tier Data Pipeline
+```
+┌──────────────┐       ┌─────────────────┐       ┌────────────────┐       ┌─────────────────┐
+│  MongoDB     │ ────▶ │  C++ Engines    │ ────▶ │  Redis Store   │ ────▶ │  Next.js App    │
+│  (Raw DB)    │       │  (Heavy Worker) │       │  (Fast Reads)  │       │  (SSR + SEO)    │
+└──────────────┘       └─────────────────┘       └────────────────┘       └─────────────────┘
+```
+**Golden Rule:** Next.js **never waits on C++ or MongoDB for hot reads**. Next.js reads pre-computed sorted sets and cached pages from Redis in `< 2ms`.
+---
+## 📦 2. Dependencies to Install
+In your Next.js project root, install:
+```bash
+npm install ioredis react-window supercluster clsx tailwind-merge
+npm install -D @types/react-window @types/supercluster
+```

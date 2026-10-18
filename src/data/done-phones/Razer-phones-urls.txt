@@ -1,0 +1,2 @@
+razer-phone: https://res.cloudinary.com/nlqftyr9/image/upload/v1785410908/razer-phone.jpg
+razer-phone2-: https://res.cloudinary.com/nlqftyr9/image/upload/v1785410912/razer-phone2-.jpg

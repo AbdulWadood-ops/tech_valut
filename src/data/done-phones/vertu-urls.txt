@@ -1,0 +1,17 @@
+vertu-ascent-2010: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400012/vertu-ascent-2010.jpg
+vertu-ascent-ferrari-gt: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400016/vertu-ascent-ferrari-gt.jpg
+vertu-ascent-ti-damascus-steel: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400020/vertu-ascent-ti-damascus-steel.jpg
+vertu-ascent-ti: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400024/vertu-ascent-ti.jpg
+vertu-aster1: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400028/vertu-aster1.jpg
+vertu-constelation: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400032/vertu-constelation.jpg
+vertu-constellation-2013: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400036/vertu-constellation-2013.jpg
+vertu-constellation-ayxta: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400040/vertu-constellation-ayxta.jpg
+vertu-constellation-quest: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400044/vertu-constellation-quest.jpg
+vertu-signature-s: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400048/vertu-signature-s.jpg
+vertu-signature-touch-2015: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400052/vertu-signature-touch-2015.jpg
+vertu-signature-touch-clous-de-paris: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400056/vertu-signature-touch-clous-de-paris.jpg
+vertu-ti: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400061/vertu-ti.jpg
+vertu_ascent: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400065/vertu_ascent.gif
+vertu_constellation: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400069/vertu_constellation.gif
+vertu_diamond: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400073/vertu_diamond.gif
+vertu_signature: https://res.cloudinary.com/nlqftyr9/image/upload/v1785400077/vertu_signature.gif

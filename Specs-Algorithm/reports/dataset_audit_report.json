@@ -1,0 +1,10 @@
+{
+  "auditTimestamp": "2026-09-13T14:40:49.040Z",
+  "totalBrands": 133,
+  "totalDevices": 16003,
+  "totalValidDevices": 16003,
+  "totalDevicesWithIssues": 0,
+  "totalIssuesFound": 0,
+  "overallHealthPercent": 100,
+  "sampleIssues": []
+}

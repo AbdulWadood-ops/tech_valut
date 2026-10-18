@@ -1,0 +1,53 @@
+[
+  {
+    "id": "promax-x15-ultra",
+    "name": "ProMax X15 Ultra",
+    "brand": "Apex Mobile",
+    "category": "mobiles",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg",
+    "price": "$1,199",
+    "rating": 4.5,
+    "specs": {
+      "technology": "GSM / HSPA / LTE / 5G",
+      "bands5g": "Sub-6 + mmWave",
+      "dimensions": "163.5 × 76.3 × 8.2 mm",
+      "weight": "221 g",
+      "build": "Titanium frame, glass back",
+      "sim": "Nano-SIM + eSIM",
+      "resistance": "IP68",
+      "displayTypeSize": "6.8\" AMOLED 120Hz",
+      "protection": "Ceramic Shield",
+      "peakBrightness": "2400 nits",
+      "pixelDensity": "460 ppi",
+      "chipset": "A18 Pro (3nm)",
+      "gpu": "Apex 6-core GPU",
+      "os": "iOS 18",
+      "ram": "12 GB",
+      "storageVariants": "256 / 512 GB / 1 TB",
+      "cardSlot": "No",
+      "mainCamera": "48MP + 12MP + 12MP",
+      "selfieCamera": "12MP TrueDepth",
+      "video": "4K@120fps",
+      "capacity": "4500 mAh",
+      "wiredCharging": "35W",
+      "wirelessCharging": "15W MagSafe",
+      "wifi": "Wi-Fi 7",
+      "bluetooth": "5.3",
+      "nfcUsb": "Yes / USB-C 3.2",
+      "sensors": "Face ID, gyro, baro",
+      "colors": "Black, Titanium, Blue",
+      "releaseDate": "Sep 2024"
+    },
+    "performance": {
+      "cpuScore": 10450,
+      "cpuPercent": 88,
+      "gpuScore": 12300,
+      "gpuPercent": 78,
+      "batteryLife": "14h",
+      "batteryPercent": 85,
+      "antutuScore": "1.78M",
+      "antutuPercent": 80,
+      "isDummy": true
+    }
+  }
+]

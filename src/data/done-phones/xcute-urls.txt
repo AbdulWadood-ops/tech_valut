@@ -1,0 +1,4 @@
+xcute-dv1: https://res.cloudinary.com/nlqftyr9/image/upload/v1785393704/xcute-dv1.gif
+xcute-dv2: https://res.cloudinary.com/nlqftyr9/image/upload/v1785393711/xcute-dv2.gif
+xcute-dv50: https://res.cloudinary.com/nlqftyr9/image/upload/v1785393718/xcute-dv50.gif
+xcute-dv80: https://res.cloudinary.com/nlqftyr9/image/upload/v1785393724/xcute-dv80.gif

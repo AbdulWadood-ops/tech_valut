@@ -1,0 +1,53 @@
+[
+  {
+    "id": "promax-x15-ultra",
+    "name": "ProMax X15 Ultra",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 7) for data-free browsing and connectivity",
+      "48MP + 12MP + 12MP camera capable of capturing good photos for its release era",
+      "A18 Pro (3nm) chipset provides balanced everyday performance",
+      "4500 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2024 launch era",
+        "body": "Picking this up around its release period, the iOS 18 experience felt snappy and responsive for the price tier. The 48MP + 12MP + 12MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The 4500 mAh power cell paired with Apex Mobile's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the ProMax X15 Ultra feels well-balanced in hand. Its 163.5 × 76.3 × 8.2 mm make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting A18 Pro (3nm) performance alongside 256 / 512 GB / 1 TB made the ProMax X15 Ultra an easy recommendation among rivals in 2024.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on iOS 18, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (6.8\" AMOLED 120Hz) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Apex Mobile",
+        "body": "Overall, the ProMax X15 Ultra proved to be a durable and well-engineered mobile device representing Apex Mobile's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  }
+]

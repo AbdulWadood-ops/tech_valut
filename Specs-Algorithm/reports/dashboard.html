@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Device Specs Verification & Data Quality Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { background-color: #0b0f19; color: #f3f4f6; }
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-thumb { background: #374151; border-radius: 3px; }
+  </style>
+</head>
+<body class="p-6 max-w-7xl mx-auto font-sans antialiased">
+  <!-- Header -->
+  <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 pb-6 border-b border-gray-800">
+    <div>
+      <h1 class="text-2xl font-bold text-white flex items-center gap-2">
+        <span class="p-2 bg-blue-600/20 text-blue-400 rounded-lg">🔍</span>
+        Device Specs Audit & Verification Report
+      </h1>
+      <p class="text-sm text-gray-400 mt-1">Algorithm: C++ Spec Verification & Data Integrity Engine</p>
+    </div>
+    <div class="flex items-center gap-3">
+      <div class="px-4 py-2 bg-gray-900 border border-gray-800 rounded-xl text-right">
+        <div class="text-xs text-gray-400">Total Devices</div>
+        <div class="text-xl font-bold text-cyan-400" id="stat-total">16,003</div>
+      </div>
+      <div class="px-4 py-2 bg-gray-900 border border-gray-800 rounded-xl text-right">
+        <div class="text-xs text-gray-400">Health Score</div>
+        <div class="text-xl font-bold text-emerald-400" id="stat-health">68.5%</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Summary Cards -->
+  <div class="grid grid-cols-1 md:grid-cols-4 gap-4 my-6">
+    <div class="p-4 bg-gray-900/60 border border-gray-800 rounded-xl">
+      <div class="text-xs font-semibold uppercase tracking-wider text-gray-400">Total Brands</div>
+      <div class="text-2xl font-bold text-white mt-1">133 Brands</div>
+      <div class="text-xs text-gray-500 mt-1">All JSON files parsed</div>
+    </div>
+    <div class="p-4 bg-gray-900/60 border border-gray-800 rounded-xl">
+      <div class="text-xs font-semibold uppercase tracking-wider text-emerald-400">100% Verified Clean</div>
+      <div class="text-2xl font-bold text-emerald-400 mt-1">10,960</div>
+      <div class="text-xs text-gray-500 mt-1">68.49% of entire dataset</div>
+    </div>
+    <div class="p-4 bg-gray-900/60 border border-gray-800 rounded-xl">
+      <div class="text-xs font-semibold uppercase tracking-wider text-amber-400">Flagged Discrepancies</div>
+      <div class="text-2xl font-bold text-amber-400 mt-1">5,043</div>
+      <div class="text-xs text-gray-500 mt-1">31.51% need spec attention</div>
+    </div>
+    <div class="p-4 bg-gray-900/60 border border-gray-800 rounded-xl">
+      <div class="text-xs font-semibold uppercase tracking-wider text-rose-400">Critical / High Severity</div>
+      <div class="text-2xl font-bold text-rose-400 mt-1">12</div>
+      <div class="text-xs text-gray-500 mt-1">Duplicate IDs / Impossible numbers</div>
+    </div>
+  </div>
+
+  <!-- Filter & Search Controls -->
+  <div class="flex flex-col sm:flex-row gap-3 my-6">
+    <input
+      type="text"
+      id="search-input"
+      placeholder="Search by brand, device name, or issue type..."
+      class="flex-1 bg-gray-900 border border-gray-800 rounded-xl px-4 py-2.5 text-sm text-white focus:outline-none focus:border-blue-500"
+    />
+    <select
+      id="severity-filter"
+      class="bg-gray-900 border border-gray-800 rounded-xl px-4 py-2.5 text-sm text-gray-300 focus:outline-none focus:border-blue-500"
+    >
+      <option value="ALL">All Severities</option>
+      <option value="HIGH">High Severity</option>
+      <option value="MEDIUM">Medium Severity</option>
+      <option value="LOW">Low / Incomplete</option>
+    </select>
+  </div>
+
+  <!-- Issues Table -->
+  <div class="border border-gray-800 rounded-xl overflow-hidden bg-gray-900/40">
+    <div class="max-h-[600px] overflow-y-auto">
+      <table class="w-full text-left text-xs text-gray-300">
+        <thead class="bg-gray-950 text-gray-400 uppercase tracking-wider sticky top-0 border-b border-gray-800">
+          <tr>
+            <th class="p-3">Brand</th>
+            <th class="p-3">Device Name</th>
+            <th class="p-3">Device ID</th>
+            <th class="p-3">Severity</th>
+            <th class="p-3">Issue Category</th>
+            <th class="p-3">Discrepancy Details</th>
+          </tr>
+        </thead>
+        <tbody id="issues-body" class="divide-y divide-gray-800/60">
+          <!-- Populated by script -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    let reportData = [];
+
+    fetch('./dataset_audit_report.json')
+      .then(res => res.json())
+      .then(data => {
+        reportData = data.sampleIssues || [];
+        renderTable(reportData);
+      })
+      .catch(() => {
+        console.log('Static preview mode');
+      });
+
+    function renderTable(items) {
+      const tbody = document.getElementById('issues-body');
+      tbody.innerHTML = '';
+      if (!items || items.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="6" class="p-4 text-center text-gray-500">No issues matching criteria.</td></tr>';
+        return;
+      }
+      items.forEach(item => {
+        const tr = document.createElement('tr');
+        tr.className = 'hover:bg-gray-800/40 transition-colors';
+        const badgeColor = item.severity === 'HIGH' ? 'bg-rose-500/20 text-rose-400 border border-rose-500/30' :
+                           item.severity === 'MEDIUM' ? 'bg-amber-500/20 text-amber-400 border border-amber-500/30' :
+                           'bg-blue-500/20 text-blue-400 border border-blue-500/30';
+
+        tr.innerHTML = `
+          <td class="p-3 font-semibold text-white uppercase">${item.brand}</td>
+          <td class="p-3 font-medium text-gray-200">${item.deviceName}</td>
+          <td class="p-3 font-mono text-gray-400">${item.deviceId}</td>
+          <td class="p-3"><span class="px-2 py-0.5 rounded-full text-[10px] font-semibold ${badgeColor}">${item.severity}</span></td>
+          <td class="p-3 font-mono text-cyan-400">${item.type}</td>
+          <td class="p-3 text-gray-300">${item.details}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    document.getElementById('search-input').addEventListener('input', filterList);
+    document.getElementById('severity-filter').addEventListener('change', filterList);
+
+    function filterList() {
+      const q = document.getElementById('search-input').value.toLowerCase();
+      const sev = document.getElementById('severity-filter').value;
+      const filtered = reportData.filter(i => {
+        const matchesQ = i.brand.toLowerCase().includes(q) ||
+                         i.deviceName.toLowerCase().includes(q) ||
+                         i.type.toLowerCase().includes(q) ||
+                         i.details.toLowerCase().includes(q);
+        const matchesSev = sev === 'ALL' || i.severity === sev;
+        return matchesQ && matchesSev;
+      });
+      renderTable(filtered);
+    }
+  </script>
+</body>
+</html>

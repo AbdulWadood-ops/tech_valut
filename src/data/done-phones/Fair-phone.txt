@@ -1,0 +1,5 @@
+fairphone-5: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491894/Fair-phone/fairphone-5.jpg
+fairphone-6: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491902/Fair-phone/fairphone-6.jpg
+fairphone3-plus: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491908/Fair-phone/fairphone3-plus.jpg
+fairphone3: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491915/Fair-phone/fairphone3.jpg
+fairphone4: https://res.cloudinary.com/nlqftyr9/image/upload/v1785491921/Fair-phone/fairphone4.jpg

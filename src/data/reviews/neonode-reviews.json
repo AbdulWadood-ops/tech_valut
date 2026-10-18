@@ -1,0 +1,152 @@
+[
+  {
+    "id": "neonode-n1-381",
+    "name": "Neonode N1",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "Li-Ion 1100 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via SD/MMC, up to 1 GB, 64 MB included"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2003 launch era",
+        "body": "Picking this up around its release period, the Microsoft Windows CE.NET experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1100 mAh power cell paired with Neonode's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Neonode N1 feels well-balanced in hand. Its 88 x 52 x 21 mm (3.46 x 2.05 x 0.83 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 16MB RAM storage, SD/MMC slot made the Neonode N1 an easy recommendation among rivals in 2003.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Microsoft Windows CE.NET, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1100 mAh battery, 2.2\", 176x220 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Neonode",
+        "body": "Overall, the Neonode N1 proved to be a durable and well-engineered mobile device representing Neonode's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "neonode-n1m-1114",
+    "name": "Neonode N1m",
+    "pros": [
+      "1 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 1100 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via SD, up to 1 GB, 64 MB included"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2005 launch era",
+        "body": "Picking this up around its release period, the Microsoft Windows CE.NET experience felt snappy and responsive for the price tier. The 1 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1100 mAh power cell paired with Neonode's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Neonode N1m feels well-balanced in hand. Its 88 x 52 x 21 mm (3.46 x 2.05 x 0.83 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside SD slot made the Neonode N1m an easy recommendation among rivals in 2005.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Microsoft Windows CE.NET, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1100 mAh battery, 2.2\", 176x220 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Neonode",
+        "body": "Overall, the Neonode N1m proved to be a durable and well-engineered mobile device representing Neonode's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "neonode-n2-1878",
+    "name": "Neonode N2",
+    "pros": [
+      "2 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 750 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via miniSD, 1 GB included"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2007 launch era",
+        "body": "Picking this up around its release period, the Feature phone experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 750 mAh power cell paired with Neonode's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Neonode N2 feels well-balanced in hand. Its 77 x 47 x 14.7 mm (3.03 x 1.85 x 0.58 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside miniSD slot made the Neonode N2 an easy recommendation among rivals in 2007.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Feature phone, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion battery, 2.0\", 176x220 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Neonode",
+        "body": "Overall, the Neonode N2 proved to be a durable and well-engineered mobile device representing Neonode's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  }
+]

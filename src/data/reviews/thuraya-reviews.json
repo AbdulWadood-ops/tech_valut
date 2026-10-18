@@ -1,0 +1,103 @@
+[
+  {
+    "id": "thuraya-sg-2520-1900",
+    "name": "Thuraya SG-2520",
+    "pros": [
+      "1.3 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 1280 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via SD ( 128 MB included )"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2007 launch era",
+        "body": "Picking this up around its release period, the WinCE 4.2 experience felt snappy and responsive for the price tier. The 1.3 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1280 mAh power cell paired with Thuraya's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Thuraya SG-2520 feels well-balanced in hand. Its 138.5 x 53 x 18.8 mm (5.45 x 2.09 x 0.74 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 128MB storage, SD slot made the Thuraya SG-2520 an easy recommendation among rivals in 2007.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on WinCE 4.2, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1280 mAh battery, 1.9\", 176x220 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Thuraya",
+        "body": "Overall, the Thuraya SG-2520 proved to be a durable and well-engineered mobile device representing Thuraya's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "thuraya-thuraya1",
+    "name": "Thuraya Thuraya1",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g/n, hotspot) for data-free browsing and connectivity",
+      "8 MP, AF camera capable of capturing good photos for its release era",
+      "Standard multi-core processor chipset provides balanced everyday performance",
+      "Li-Ion 3000 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2015 launch era",
+        "body": "Picking this up around its release period, the Android experience felt snappy and responsive for the price tier. The 8 MP, AF camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 3000 mAh power cell paired with Thuraya's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Thuraya Thuraya1 feels well-balanced in hand. Its Standard compact design make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Standard multi-core processor performance alongside 16GB / 32GB storage, microSD slot made the Thuraya Thuraya1 an easy recommendation among rivals in 2015.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (IPS LCD capacitive touchscreen) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Thuraya",
+        "body": "Overall, the Thuraya Thuraya1 proved to be a durable and well-engineered mobile device representing Thuraya's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  }
+]

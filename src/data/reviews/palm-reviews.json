@@ -1,0 +1,962 @@
+[
+  {
+    "id": "palm-centro-2215",
+    "name": "Palm Centro",
+    "pros": [
+      "1.3 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 1150 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSDHC (dedicated slot)"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2008 launch era",
+        "body": "Picking this up around its release period, the Palm OS 5.4.9 experience felt snappy and responsive for the price tier. The 1.3 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1150 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Centro feels well-balanced in hand. Its 107.2 x 53.5 x 18.6 mm (4.22 x 2.11 x 0.73 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 64MB storage, microSDHC slot made the Palm Centro an easy recommendation among rivals in 2008.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm OS 5.4.9, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1150 mAh battery, 2.25\", 320x320 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Centro proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-palm-9232",
+    "name": "Palm Palm",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, hotspot) for data-free browsing and connectivity",
+      "8 MP camera capable of capturing good photos for its release era",
+      "Snapdragon 435 chipset provides balanced everyday performance",
+      "Li-Ion 800 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2018 launch era",
+        "body": "Picking this up around its release period, the Android 8.1 experience felt snappy and responsive for the price tier. The 8 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 800 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Palm feels well-balanced in hand. Its 96.6 x 50.6 x 7.4 mm (3.80 x 1.99 x 0.29 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Snapdragon 435 performance alongside 32GB storage, no card slot made the Palm Palm an easy recommendation among rivals in 2018.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android 8.1, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Li-Ion 800 mAh, non-removable, 3.3\", 720x1280 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Palm proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-pixi-2903",
+    "name": "Palm Pixi",
+    "pros": [
+      "2 MP camera capable of capturing good photos for its release era",
+      "MSM7627 chipset provides balanced everyday performance",
+      "Li-Ion 1150 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "No official IP rating for dust or water resistance"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2009 launch era",
+        "body": "Picking this up around its release period, the Palm webOS experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1150 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Pixi feels well-balanced in hand. Its 111 x 55 x 10.9 mm (4.37 x 2.17 x 0.43 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting MSM7627 performance alongside 8GB storage, no card slot made the Palm Pixi an easy recommendation among rivals in 2009.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm webOS, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1150 mAh battery, 2.63\", 320x400 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Pixi proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-pixi-plus-3211",
+    "name": "Palm Pixi Plus",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g) for data-free browsing and connectivity",
+      "2 MP camera capable of capturing good photos for its release era",
+      "MSM7627 chipset provides balanced everyday performance",
+      "Li-Ion 1150 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "No official IP rating for dust or water resistance"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2010 launch era",
+        "body": "Picking this up around its release period, the Palm webOS experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1150 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Pixi Plus feels well-balanced in hand. Its 111 x 55 x 10.9 mm (4.37 x 2.17 x 0.43 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting MSM7627 performance alongside 8GB storage, no card slot made the Palm Pixi Plus an easy recommendation among rivals in 2010.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm webOS, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1150 mAh battery, 2.63\", 320x400 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Pixi Plus proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-pre-2694",
+    "name": "Palm Pre",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g) for data-free browsing and connectivity",
+      "3.15 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 1150 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "No official IP rating for dust or water resistance",
+      "Limited RAM (256 MB RAM) constraints modern multitasking"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2009 launch era",
+        "body": "Picking this up around its release period, the Palm webOS experience felt snappy and responsive for the price tier. The 3.15 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1150 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Pre feels well-balanced in hand. Its 100.5 x 59.5 x 16.9 mm (3.96 x 2.34 x 0.67 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 8GB storage, no card slot made the Palm Pre an easy recommendation among rivals in 2009.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm webOS, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1150 mAh battery, 3.1\", 320x480 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Pre proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-pre-2-3516",
+    "name": "Palm Pre 2",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g) for data-free browsing and connectivity",
+      "5 MP camera capable of capturing good photos for its release era",
+      "Li-Ion battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "Limited RAM (512 MB RAM) constraints modern multitasking"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2010 launch era",
+        "body": "Picking this up around its release period, the HP webOS 2.0 experience felt snappy and responsive for the price tier. The 5 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Pre 2 feels well-balanced in hand. Its 100.7 x 59.6 x 16.9 mm (3.96 x 2.35 x 0.67 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 16GB storage, no card slot made the Palm Pre 2 an easy recommendation among rivals in 2010.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on HP webOS 2.0, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion battery, 3.1\", 320x480 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Pre 2 proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-pre-2-cdma-3546",
+    "name": "Palm Pre 2 CDMA",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g) for data-free browsing and connectivity",
+      "5 MP camera capable of capturing good photos for its release era",
+      "Li-Ion battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "Limited RAM (512 MB RAM) constraints modern multitasking"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2010 launch era",
+        "body": "Picking this up around its release period, the HP webOS 2.0 experience felt snappy and responsive for the price tier. The 5 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Pre 2 CDMA feels well-balanced in hand. Its 100.7 x 59.6 x 16.9 mm (3.96 x 2.35 x 0.67 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 16GB storage, no card slot made the Palm Pre 2 CDMA an easy recommendation among rivals in 2010.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on HP webOS 2.0, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion battery, 3.1\", 320x480 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Pre 2 CDMA proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-pre-plus-3210",
+    "name": "Palm Pre Plus",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g) for data-free browsing and connectivity",
+      "3.15 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 1150 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "No official IP rating for dust or water resistance",
+      "Limited RAM (512 MB RAM) constraints modern multitasking"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2010 launch era",
+        "body": "Picking this up around its release period, the Palm webOS 1.3.5 experience felt snappy and responsive for the price tier. The 3.15 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1150 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Pre Plus feels well-balanced in hand. Its 100.5 x 59.5 x 16.9 mm (3.96 x 2.34 x 0.67 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 16GB storage, no card slot made the Palm Pre Plus an easy recommendation among rivals in 2010.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm webOS 1.3.5, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1150 mAh battery, 3.1\", 320x480 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Pre Plus proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-treo-180-603",
+    "name": "Palm Treo 180",
+    "pros": [
+      "NO camera capable of capturing good photos for its release era",
+      "Li-Ion 780 mAh battery offers solid operating endurance for daily use",
+      "Ergonomic and portable form factor (108 x 71 x 21 mm (4.25 x 2.80 x 0.83 in))",
+      "Reliable hardware build by Palm"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "No official IP rating for dust or water resistance"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2002 launch era",
+        "body": "Picking this up around its release period, the Palm 3.5.2H experience felt snappy and responsive for the price tier. The NO camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 780 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Treo 180 feels well-balanced in hand. Its 108 x 71 x 21 mm (4.25 x 2.80 x 0.83 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 16MB storage, no card slot made the Palm Treo 180 an easy recommendation among rivals in 2002.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm 3.5.2H, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion battery, 160x160 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Treo 180 proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-treo-270-601",
+    "name": "Palm Treo 270",
+    "pros": [
+      "NO camera capable of capturing good photos for its release era",
+      "Li-Ion 780 mAh battery offers solid operating endurance for daily use",
+      "Ergonomic and portable form factor (108 x 71 x 21 mm (4.25 x 2.80 x 0.83 in))",
+      "Reliable hardware build by Palm"
+    ],
+    "cons": [
+      "No memory card slot -- storage is fixed at purchase",
+      "No official IP rating for dust or water resistance"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2003 launch era",
+        "body": "Picking this up around its release period, the Palm 3.5.2H4 experience felt snappy and responsive for the price tier. The NO camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 780 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Treo 270 feels well-balanced in hand. Its 108 x 71 x 21 mm (4.25 x 2.80 x 0.83 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 16MB storage, no card slot made the Palm Treo 270 an easy recommendation among rivals in 2003.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm 3.5.2H4, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion battery, 160x160 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Treo 270 proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-treo-500v-2074",
+    "name": "Palm Treo 500v",
+    "pros": [
+      "2 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 1200 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via microSD (dedicated slot)"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2008 launch era",
+        "body": "Picking this up around its release period, the Microsoft Windows Mobile 6.0 Standard Edition experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1200 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Treo 500v feels well-balanced in hand. Its 110 x 61.5 x 16.5 mm (4.33 x 2.42 x 0.65 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 150MB storage, microSD slot made the Palm Treo 500v an easy recommendation among rivals in 2008.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Microsoft Windows Mobile 6.0 Standard Edition, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1200 mAh battery, 2.4\", 320x240 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Treo 500v proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-treo-600-602",
+    "name": "Palm Treo 600",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "TI OMAP 1510 chipset provides balanced everyday performance",
+      "Li-Ion 780 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via SD/MMC, up to 2 GB"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2003 launch era",
+        "body": "Picking this up around its release period, the Palm 5.2.1H experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 780 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Treo 600 feels well-balanced in hand. Its 112 x 60 x 22 mm (4.41 x 2.36 x 0.87 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting TI OMAP 1510 performance alongside 32MB storage, SD/MMC slot made the Palm Treo 600 an easy recommendation among rivals in 2003.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm 5.2.1H, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion battery, 2.5\", 160x160 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Treo 600 proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-treo-650-886",
+    "name": "Palm Treo 650",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "Li-Ion 780 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via SD/SDIO/MMC, up to 2 GB"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2004 launch era",
+        "body": "Picking this up around its release period, the Palm 5.4 experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 780 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Treo 650 feels well-balanced in hand. Its 113 x 59 x 23 mm (4.45 x 2.32 x 0.91 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 23MB storage, SD/SDIO/MMC slot made the Palm Treo 650 an easy recommendation among rivals in 2004.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm 5.4, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion battery, 2.4\", 320x320 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Treo 650 proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-treo-680-1716",
+    "name": "Palm Treo 680",
+    "pros": [
+      "Dedicated rear camera for quick snapshot captures",
+      "Li-Ion 1000 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via SD/MMC, up to 4 GB"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2006 launch era",
+        "body": "Picking this up around its release period, the Palm OS 5.4.9 experience felt snappy and responsive for the price tier. The VGA camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1000 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Treo 680 feels well-balanced in hand. Its 111.8 x 58.4 x 20.3 mm (4.40 x 2.30 x 0.80 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 64MB storage, SD/MMC slot made the Palm Treo 680 an easy recommendation among rivals in 2006.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Palm OS 5.4.9, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion battery, 2.5\", 320x320 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Treo 680 proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-treo-750-1884",
+    "name": "Palm Treo 750",
+    "pros": [
+      "1.3 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 1200 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via miniSD, up to 2 GB"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2007 launch era",
+        "body": "Picking this up around its release period, the Microsoft Windows Mobile 5.0 PocketPC experience felt snappy and responsive for the price tier. The 1.3 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1200 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Treo 750 feels well-balanced in hand. Its 111 x 58 x 22 mm (4.37 x 2.28 x 0.87 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 60MB storage, miniSD slot made the Palm Treo 750 an easy recommendation among rivals in 2007.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Microsoft Windows Mobile 5.0 PocketPC, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1200 mAh battery, 2.5\", 240x240 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Treo 750 proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-treo-750v-1680",
+    "name": "Palm Treo 750v",
+    "pros": [
+      "1.3 MP camera capable of capturing good photos for its release era",
+      "Li-Ion 1200 mAh battery offers solid operating endurance for daily use",
+      "Expandable memory via miniSD, up to 2 GB"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2006 launch era",
+        "body": "Picking this up around its release period, the Microsoft Windows Mobile 5.0 PocketPC experience felt snappy and responsive for the price tier. The 1.3 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1200 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Treo 750v feels well-balanced in hand. Its 111 x 58 x 22 mm (4.37 x 2.28 x 0.87 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting standard platform performance alongside 60MB storage, miniSD slot made the Palm Treo 750v an easy recommendation among rivals in 2006.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Microsoft Windows Mobile 5.0 PocketPC, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1200 mAh battery, 2.5\", 240x240 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Treo 750v proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-treo-pro-2463",
+    "name": "Palm Treo Pro",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g) for data-free browsing and connectivity",
+      "2 MP camera capable of capturing good photos for its release era",
+      "MSM7201 chipset provides balanced everyday performance",
+      "Li-Ion 1500 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2008 launch era",
+        "body": "Picking this up around its release period, the Microsoft Windows Mobile 6.1 Professional experience felt snappy and responsive for the price tier. The 2 MP camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 1500 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Treo Pro feels well-balanced in hand. Its 114 x 60 x 13.4 mm (4.49 x 2.36 x 0.53 in) make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting MSM7201 performance alongside 100MB 128MB RAM storage, microSDHC slot made the Palm Treo Pro an easy recommendation among rivals in 2008.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Microsoft Windows Mobile 6.1 Professional, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (Removable Li-Ion 1500 mAh battery, 2.5\", 320x320 pixels) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Treo Pro proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-palm-pre-2-cdma",
+    "name": "Palm Palm Pre 2 Cdma",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g/n, hotspot) for data-free browsing and connectivity",
+      "8 MP, AF camera capable of capturing good photos for its release era",
+      "Standard multi-core processor chipset provides balanced everyday performance",
+      "Li-Ion 3000 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2015 launch era",
+        "body": "Picking this up around its release period, the Android experience felt snappy and responsive for the price tier. The 8 MP, AF camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 3000 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Palm Pre 2 Cdma feels well-balanced in hand. Its Standard compact design make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Standard multi-core processor performance alongside 16GB / 32GB storage, microSD slot made the Palm Palm Pre 2 Cdma an easy recommendation among rivals in 2015.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (IPS LCD capacitive touchscreen) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Palm Pre 2 Cdma proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": "palm-palm-pvg100",
+    "name": "Palm Palm Pvg100",
+    "pros": [
+      "Wi-Fi support (Wi-Fi 802.11 b/g/n, hotspot) for data-free browsing and connectivity",
+      "8 MP, AF camera capable of capturing good photos for its release era",
+      "Standard multi-core processor chipset provides balanced everyday performance",
+      "Li-Ion 3000 mAh battery offers solid operating endurance for daily use"
+    ],
+    "cons": [
+      "No official IP rating for dust or water resistance",
+      "Standard charging speeds without ultra-fast charging support"
+    ],
+    "reviews": [
+      {
+        "title": "Solid performance for its 2015 launch era",
+        "body": "Picking this up around its release period, the Android experience felt snappy and responsive for the price tier. The 8 MP, AF camera delivered reliable shots in outdoor lighting.",
+        "rating": 3
+      },
+      {
+        "title": "Reliable battery and daily usability",
+        "body": "The Li-Ion 3000 mAh power cell paired with Palm's software tuning easily lasted through a full work day with mixed web browsing, calls, and media playback.",
+        "rating": 4
+      },
+      {
+        "title": "Refined hardware styling and build",
+        "body": "The physical chassis of the Palm Palm Pvg100 feels well-balanced in hand. Its Standard compact design make it easy to hold during long daily sessions.",
+        "rating": 4
+      },
+      {
+        "title": "Great value for the hardware specifications",
+        "body": "For the price point, getting Standard multi-core processor performance alongside 16GB / 32GB storage, microSD slot made the Palm Palm Pvg100 an easy recommendation among rivals in 2015.",
+        "rating": 5
+      },
+      {
+        "title": "Smooth day-to-day software responsiveness",
+        "body": "Operating on Android, the user interface is intuitive with smooth system transitions. Core apps and browsing run without noticeable stutter.",
+        "rating": 3
+      },
+      {
+        "title": "Dependable display and audio clarity",
+        "body": "The screen (IPS LCD capacitive touchscreen) produces vibrant colors for video streaming, and call clarity through the earpiece is crystal clear.",
+        "rating": 4
+      },
+      {
+        "title": "A well-rounded package from Palm",
+        "body": "Overall, the Palm Palm Pvg100 proved to be a durable and well-engineered mobile device representing Palm's design philosophy nicely.",
+        "rating": 5
+      }
+    ]
+  }
+]

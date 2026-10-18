@@ -1,0 +1,5 @@
+atom-v: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425627/MWg-phones/atom-v.jpg
+mwg-501: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425633/MWg-phones/mwg-501.jpg
+mwg-503g: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425639/MWg-phones/mwg-503g.jpg
+mwg-atom-life: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425646/MWg-phones/mwg-atom-life.jpg
+mwg-zinc-ii: https://res.cloudinary.com/nlqftyr9/image/upload/v1785425652/MWg-phones/mwg-zinc-ii.jpg

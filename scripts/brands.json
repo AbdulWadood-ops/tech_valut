@@ -1,0 +1,538 @@
+[
+  {
+    "name": "Acer",
+    "slug": "acer"
+  },
+  {
+    "name": "Alcatel",
+    "slug": "alcatel"
+  },
+  {
+    "name": "All",
+    "slug": "all"
+  },
+  {
+    "name": "Allview",
+    "slug": "allview"
+  },
+  {
+    "name": "Amazon",
+    "slug": "amazon"
+  },
+  {
+    "name": "Amoi",
+    "slug": "amoi"
+  },
+  {
+    "name": "Apex Mobile",
+    "slug": "apex-mobile"
+  },
+  {
+    "name": "Apple",
+    "slug": "apple"
+  },
+  {
+    "name": "Archos",
+    "slug": "archos"
+  },
+  {
+    "name": "Asus",
+    "slug": "asus"
+  },
+  {
+    "name": "AT&T",
+    "slug": "at-t"
+  },
+  {
+    "name": "Benefon",
+    "slug": "benefon"
+  },
+  {
+    "name": "Benq",
+    "slug": "benq"
+  },
+  {
+    "name": "BenQ Siemens",
+    "slug": "benq-siemens"
+  },
+  {
+    "name": "Bird",
+    "slug": "bird"
+  },
+  {
+    "name": "BlackBerry",
+    "slug": "blackberry"
+  },
+  {
+    "name": "Blackview",
+    "slug": "blackview"
+  },
+  {
+    "name": "BLU",
+    "slug": "blu"
+  },
+  {
+    "name": "Bosch",
+    "slug": "bosch"
+  },
+  {
+    "name": "BQ",
+    "slug": "bq"
+  },
+  {
+    "name": "Casio",
+    "slug": "casio"
+  },
+  {
+    "name": "Cat",
+    "slug": "cat"
+  },
+  {
+    "name": "Celkon",
+    "slug": "celkon"
+  },
+  {
+    "name": "Chea",
+    "slug": "chea"
+  },
+  {
+    "name": "Coolpad",
+    "slug": "coolpad"
+  },
+  {
+    "name": "Cubot",
+    "slug": "cubot"
+  },
+  {
+    "name": "Dell",
+    "slug": "dell"
+  },
+  {
+    "name": "Doogee",
+    "slug": "doogee"
+  },
+  {
+    "name": "Emporia",
+    "slug": "emporia"
+  },
+  {
+    "name": "Energizer",
+    "slug": "energizer"
+  },
+  {
+    "name": "Ericsson",
+    "slug": "ericsson"
+  },
+  {
+    "name": "Eten",
+    "slug": "eten"
+  },
+  {
+    "name": "Fairphone",
+    "slug": "fairphone"
+  },
+  {
+    "name": "Fujitsu",
+    "slug": "fujitsu"
+  },
+  {
+    "name": "Garmin Asus",
+    "slug": "garmin-asus"
+  },
+  {
+    "name": "Gigabyte",
+    "slug": "gigabyte"
+  },
+  {
+    "name": "Gionee",
+    "slug": "gionee"
+  },
+  {
+    "name": "Google",
+    "slug": "google"
+  },
+  {
+    "name": "Haier",
+    "slug": "haier"
+  },
+  {
+    "name": "HMD",
+    "slug": "hmd"
+  },
+  {
+    "name": "Honor",
+    "slug": "honor"
+  },
+  {
+    "name": "HP",
+    "slug": "hp"
+  },
+  {
+    "name": "HTC",
+    "slug": "htc"
+  },
+  {
+    "name": "Huawei",
+    "slug": "huawei"
+  },
+  {
+    "name": "I Mate",
+    "slug": "i-mate"
+  },
+  {
+    "name": "I Mobile",
+    "slug": "i-mobile"
+  },
+  {
+    "name": "Icemobile",
+    "slug": "icemobile"
+  },
+  {
+    "name": "Infinix",
+    "slug": "infinix"
+  },
+  {
+    "name": "Innostream",
+    "slug": "innostream"
+  },
+  {
+    "name": "INQ",
+    "slug": "inq"
+  },
+  {
+    "name": "Intex",
+    "slug": "intex"
+  },
+  {
+    "name": "Itel",
+    "slug": "itel"
+  },
+  {
+    "name": "Jolla",
+    "slug": "jolla"
+  },
+  {
+    "name": "Karbonn",
+    "slug": "karbonn"
+  },
+  {
+    "name": "Kyocera",
+    "slug": "kyocera"
+  },
+  {
+    "name": "Lava",
+    "slug": "lava"
+  },
+  {
+    "name": "LeEco",
+    "slug": "leeco"
+  },
+  {
+    "name": "Lenovo",
+    "slug": "lenovo"
+  },
+  {
+    "name": "LG",
+    "slug": "lg"
+  },
+  {
+    "name": "Maxon",
+    "slug": "maxon"
+  },
+  {
+    "name": "Maxwest",
+    "slug": "maxwest"
+  },
+  {
+    "name": "Meizu",
+    "slug": "meizu"
+  },
+  {
+    "name": "Micromax",
+    "slug": "micromax"
+  },
+  {
+    "name": "Microsoft",
+    "slug": "microsoft"
+  },
+  {
+    "name": "Mitac",
+    "slug": "mitac"
+  },
+  {
+    "name": "Mitsubishi",
+    "slug": "mitsubishi"
+  },
+  {
+    "name": "Modu",
+    "slug": "modu"
+  },
+  {
+    "name": "Motorola",
+    "slug": "motorola"
+  },
+  {
+    "name": "MWg",
+    "slug": "mwg"
+  },
+  {
+    "name": "NEC",
+    "slug": "nec"
+  },
+  {
+    "name": "Neonode",
+    "slug": "neonode"
+  },
+  {
+    "name": "NIU",
+    "slug": "niu"
+  },
+  {
+    "name": "Nokia",
+    "slug": "nokia"
+  },
+  {
+    "name": "Nothing",
+    "slug": "nothing"
+  },
+  {
+    "name": "Nvidia",
+    "slug": "nvidia"
+  },
+  {
+    "name": "O",
+    "slug": "o2"
+  },
+  {
+    "name": "OnePlus",
+    "slug": "oneplus"
+  },
+  {
+    "name": "Oppo",
+    "slug": "oppo"
+  },
+  {
+    "name": "Orange",
+    "slug": "orange"
+  },
+  {
+    "name": "Oscal",
+    "slug": "oscal"
+  },
+  {
+    "name": "Oukitel",
+    "slug": "oukitel"
+  },
+  {
+    "name": "Palm",
+    "slug": "palm"
+  },
+  {
+    "name": "Panasonic",
+    "slug": "panasonic"
+  },
+  {
+    "name": "Pantech",
+    "slug": "pantech"
+  },
+  {
+    "name": "Parla",
+    "slug": "parla"
+  },
+  {
+    "name": "Philips",
+    "slug": "philips"
+  },
+  {
+    "name": "Plum",
+    "slug": "plum"
+  },
+  {
+    "name": "Plump",
+    "slug": "plump"
+  },
+  {
+    "name": "POCO",
+    "slug": "poco"
+  },
+  {
+    "name": "Posh",
+    "slug": "posh"
+  },
+  {
+    "name": "Prestigio",
+    "slug": "prestigio"
+  },
+  {
+    "name": "QMobile",
+    "slug": "qmobile"
+  },
+  {
+    "name": "Qtek",
+    "slug": "qtek"
+  },
+  {
+    "name": "Razer",
+    "slug": "razer"
+  },
+  {
+    "name": "Realme",
+    "slug": "realme"
+  },
+  {
+    "name": "Redmi",
+    "slug": "redmi"
+  },
+  {
+    "name": "Rugone",
+    "slug": "rugone"
+  },
+  {
+    "name": "Sagem",
+    "slug": "sagem"
+  },
+  {
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  {
+    "name": "Segam",
+    "slug": "segam"
+  },
+  {
+    "name": "Sendo",
+    "slug": "sendo"
+  },
+  {
+    "name": "Sewon",
+    "slug": "sewon"
+  },
+  {
+    "name": "Sharp",
+    "slug": "sharp"
+  },
+  {
+    "name": "Siemens",
+    "slug": "siemens"
+  },
+  {
+    "name": "Sonim",
+    "slug": "sonim"
+  },
+  {
+    "name": "Sony",
+    "slug": "sony"
+  },
+  {
+    "name": "SonyErcisson",
+    "slug": "sonyercisson"
+  },
+  {
+    "name": "Spice",
+    "slug": "spice"
+  },
+  {
+    "name": "T Mobile",
+    "slug": "t-mobile"
+  },
+  {
+    "name": "TCL",
+    "slug": "tcl"
+  },
+  {
+    "name": "Tecno",
+    "slug": "tecno"
+  },
+  {
+    "name": "Tel.Me.",
+    "slug": "tel-me"
+  },
+  {
+    "name": "Telit",
+    "slug": "telit"
+  },
+  {
+    "name": "TellMe",
+    "slug": "tellme"
+  },
+  {
+    "name": "Thuraya",
+    "slug": "thuraya"
+  },
+  {
+    "name": "Toshiba",
+    "slug": "toshiba"
+  },
+  {
+    "name": "Ulefone",
+    "slug": "ulefone"
+  },
+  {
+    "name": "Umidigi",
+    "slug": "umidigi"
+  },
+  {
+    "name": "Unnecto",
+    "slug": "unnecto"
+  },
+  {
+    "name": "Vertu",
+    "slug": "vertu"
+  },
+  {
+    "name": "Verykool",
+    "slug": "verykool"
+  },
+  {
+    "name": "Vivo",
+    "slug": "vivo"
+  },
+  {
+    "name": "VK",
+    "slug": "vk"
+  },
+  {
+    "name": "VkMobile",
+    "slug": "vkmobile"
+  },
+  {
+    "name": "Vodafone",
+    "slug": "vodafone"
+  },
+  {
+    "name": "Wiko",
+    "slug": "wiko"
+  },
+  {
+    "name": "Wnd",
+    "slug": "wnd"
+  },
+  {
+    "name": "XCute",
+    "slug": "xcute"
+  },
+  {
+    "name": "Xiaomi",
+    "slug": "xiaomi"
+  },
+  {
+    "name": "XOLO",
+    "slug": "xolo"
+  },
+  {
+    "name": "Yezz",
+    "slug": "yezz"
+  },
+  {
+    "name": "Yota",
+    "slug": "yota"
+  },
+  {
+    "name": "YU",
+    "slug": "yu"
+  },
+  {
+    "name": "ZTE",
+    "slug": "zte"
+  }
+]

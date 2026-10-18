@@ -1,0 +1,17 @@
+hst180: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428554/Palm%20phones/hst180.gif
+hst270: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428560/Palm%20phones/hst270.gif
+hst600: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428566/Palm%20phones/hst600.gif
+hst650: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428573/Palm%20phones/hst650.gif
+palm-centro: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428579/Palm%20phones/palm-centro.jpg
+palm-pixi-plus-ofic: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428585/Palm%20phones/palm-pixi-plus-ofic.jpg
+palm-pixi: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428591/Palm%20phones/palm-pixi.jpg
+palm-pre-2-cdma: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428597/Palm%20phones/palm-pre-2-cdma.jpg
+palm-pre-2-ofic: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428604/Palm%20phones/palm-pre-2-ofic.jpg
+palm-pre-plus-ofic: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428610/Palm%20phones/palm-pre-plus-ofic.jpg
+palm-pre: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428616/Palm%20phones/palm-pre.jpg
+palm-pvg100: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428624/Palm%20phones/palm-pvg100.jpg
+palm-treo-pro: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428630/Palm%20phones/palm-treo-pro.jpg
+palm-treo500v: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428636/Palm%20phones/palm-treo500v.gif
+palm-treo680: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428642/Palm%20phones/palm-treo680.gif
+palm-treo750: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428649/Palm%20phones/palm-treo750.gif
+palm-treo750v: https://res.cloudinary.com/nlqftyr9/image/upload/v1785428655/Palm%20phones/palm-treo750v.gif
